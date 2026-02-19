@@ -15,4 +15,4 @@ before pushing/publishing branch git pull origin dev
 -Velvet ✅
 -Zahra ✅
 -Pontus ✅
--Åsa
+-Åsa ✅
