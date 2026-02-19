@@ -9,6 +9,3 @@ Dont merge your own pull request without express "permission" :)
 Merge dev to main branch in group setting
 
 before pushing/publishing branch git pull origin dev
-
-
-Åsa Lindskog
