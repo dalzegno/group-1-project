@@ -10,6 +10,8 @@ Merge dev to main branch in group setting
 
 before pushing/publishing branch git pull origin dev
 
+test project and code works before pushing/merging 
+
 -Victor ✅
 -Velvet ✅
 -Pontus ✅
