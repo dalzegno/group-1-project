@@ -14,4 +14,6 @@ test project and code works before pushing/merging
 
 -Victor ✅
 -Velvet ✅
+-Zahra ✅
 -Pontus ✅
+-Åsa ✅
