@@ -11,4 +11,5 @@ Merge dev to main branch in group setting
 before pushing/publishing branch git pull origin dev
 
 -Victor ✅
--Zahra ✅
+-Velvet ✅
+-Pontus ✅-Zahra ✅
