@@ -12,3 +12,4 @@ before pushing/publishing branch git pull origin dev
 
 -Victor ✅
 -Velvet ✅
+-Pontus ✅
